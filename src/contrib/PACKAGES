@@ -1,0 +1,8 @@
+Package: downscaleR
+Version: 2.0-1
+Depends: R(>= 3.1.0), transformeR(>= 0.0-5)
+Imports: abind, utils, RCurl, fields, MASS, evd, parallel, grDevices, graphics, stats, magrittr
+Suggests: loadeR, loadeR.ECOMS, visualizeR
+License: GPL (>= 3)
+MD5sum: 3c9d71ecd029eeb7f714e28c7de9adcf
+NeedsCompilation: no
