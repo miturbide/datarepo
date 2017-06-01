@@ -6,3 +6,12 @@ Suggests: loadeR, loadeR.ECOMS, visualizeR
 License: GPL (>= 3)
 MD5sum: 3c9d71ecd029eeb7f714e28c7de9adcf
 NeedsCompilation: no
+
+Package: transformeR
+Version: 0.0.8
+Depends: R(>= 3.1.0)
+Imports: abind, akima, fields, graphics, grDevices, magrittr, parallel, RcppEigen, sp, stats, utils, raster
+Suggests: downscaleR, loadeR, loadeR.ECOMS, visualizeR
+License: file LICENSE
+MD5sum: 133388b8e002c822dd61c045a7092d18
+NeedsCompilation: no
